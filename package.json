@@ -54,7 +54,7 @@
     "decky-frontend-lib": "^3.24.5",
     "husky": "^8.0.3",
     "markdown-it": "^13.0.1",
-    "rollup": "^2.79.1",
+    "rollup": "^3.29.5",
     "rollup-plugin-import-assets": "^1.1.1",
     "shx": "^0.3.4",
     "tslib": "^2.6.1",
